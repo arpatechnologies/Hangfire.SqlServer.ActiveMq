@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2014 Sergey Odinokov
+﻿// Copyright (c) 2020 Mirco Tamburini
 
 using System;
 using System.Data;
