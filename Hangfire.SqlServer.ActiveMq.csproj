@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mirco Tamburini</Authors>
+    <Company>Arpa Technologies s.r.l.</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Apache.NMS.ActiveMQ.NetStd" Version="1.7.2.4115" />
+    <PackageReference Include="Hangfire" Version="1.7.11" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.11" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.11" />
+  </ItemGroup>
+
+</Project>
